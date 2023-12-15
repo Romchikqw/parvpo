@@ -5,7 +5,6 @@
 #include <chrono>
 #include <vector>
 
-
 const int size = 160000;
 
 std::array<std::vector<int>, 4> generateVec() {
